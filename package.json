@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "stuncs69",
-  "license": "LGPL-3.0-or-later"
+  "license": "LGPL-3.0-or-later",
+  "dependencies": {
+    "@types/node": "^20.11.17",
+    "@types/sql.js": "^1.4.9",
+    "sql.js": "^1.10.2"
+  }
 }
